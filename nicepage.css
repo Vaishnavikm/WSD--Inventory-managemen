@@ -28,7 +28,7 @@
   box-shadow: 10px 10px 5px 0px #cccccc; }
 
 .fr-view img.fr-bordered, .fr-view .fr-img-caption.fr-bordered img {
-  border: solid 5px #CCC; }
+  border: solid 5px #cccccc; }
 
 .fr-view img.fr-bordered {
   -webkit-box-sizing: content-box;
